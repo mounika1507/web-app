@@ -2,59 +2,78 @@
   "foods": [
     {
       "id": 1,
-      "name": "Pizza Margherita",
-      "category": "Italian",
-      "price": 12.99,
-      "image": "images/pizza.jpg"
+      "name": "Pizza",
+      "price": 12.99
     },
     {
       "id": 2,
-      "name": "Sushi Platter",
-      "category": "Japanese",
-      "price": 18.99,
-      "image": "images/sushi.jpg"
+      "name": "Burger",
+      "price": 8.99
     },
     {
       "id": 3,
-      "name": "Burger Classic",
-      "category": "American",
-      "price": 9.99,
-      "image": "images/burger.jpg"
+      "name": "Pasta",
+      "price": 10.49
     },
     {
       "id": 4,
-      "name": "Tandoori Chicken",
-      "category": "Indian",
-      "price": 14.99,
-      "image": "images/tandoori.jpg"
+      "name": "Sushi",
+      "price": 14.99
     },
     {
       "id": 5,
-      "name": "Pasta Carbonara",
-      "category": "Italian",
-      "price": 13.99,
-      "image": "images/pasta.jpg"
+      "name": "Salad",
+      "price": 6.99
     },
     {
       "id": 6,
-      "name": "Tacos Al Pastor",
-      "category": "Mexican",
-      "price": 10.99,
-      "image": "images/tacos.jpg"
+      "name": "Tacos",
+      "price": 9.49
     },
     {
       "id": 7,
-      "name": "Falafel Wrap",
-      "category": "Middle Eastern",
-      "price": 8.99,
-      "image": "images/falafel.jpg"
+      "name": "Sandwich",
+      "price": 7.99
     },
     {
       "id": 8,
-      "name": "Ramen Bowl",
-      "category": "Japanese",
-      "price": 15.99,
-      "image": "images/ramen.jpg"
+      "name": "Steak",
+      "price": 19.99
+    },
+    {
+      "id": 9,
+      "name": "Ice Cream",
+      "price": 4.99
+    },
+    {
+      "id": 10,
+      "name": "Cake",
+      "price": 5.99
+    },
+    {
+      "id": 11,
+      "name": "French Fries",
+      "price": 3.99
+    },
+    {
+      "id": 12,
+      "name": "Hot Dog",
+      "price": 6.49
+    },
+    {
+      "id": 13,
+      "name": "Noodles",
+      "price": 7.99
+    },
+    {
+      "id": 14,
+      "name": "Chicken Wings",
+      "price": 11.99
+    },
+    {
+      "id": 15,
+      "name": "BBQ Ribs",
+      "price": 18.49
     }
   ]
 }
