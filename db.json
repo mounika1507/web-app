@@ -74,6 +74,11 @@
       "id": 15,
       "name": "BBQ Ribs",
       "price": 18.49
+    },
+    {
+      "id": 16,
+      "name": "Fish & Chips",
+      "price": 13.99
     }
   ]
 }
