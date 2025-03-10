@@ -1,0 +1,60 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Pizza Margherita",
+      "category": "Italian",
+      "price": 12.99,
+      "image": "images/pizza.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sushi Platter",
+      "category": "Japanese",
+      "price": 18.99,
+      "image": "images/sushi.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Burger Classic",
+      "category": "American",
+      "price": 9.99,
+      "image": "images/burger.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tandoori Chicken",
+      "category": "Indian",
+      "price": 14.99,
+      "image": "images/tandoori.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pasta Carbonara",
+      "category": "Italian",
+      "price": 13.99,
+      "image": "images/pasta.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Tacos Al Pastor",
+      "category": "Mexican",
+      "price": 10.99,
+      "image": "images/tacos.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Falafel Wrap",
+      "category": "Middle Eastern",
+      "price": 8.99,
+      "image": "images/falafel.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ramen Bowl",
+      "category": "Japanese",
+      "price": 15.99,
+      "image": "images/ramen.jpg"
+    }
+  ]
+}
