@@ -3,82 +3,152 @@
     {
       "id": 1,
       "name": "Pizza",
+      "category": "Italian",
       "price": 12.99
     },
     {
       "id": 2,
       "name": "Burger",
+      "category": "American",
       "price": 8.99
     },
     {
       "id": 3,
       "name": "Pasta",
+      "category": "Italian",
       "price": 10.49
     },
     {
       "id": 4,
       "name": "Sushi",
+      "category": "Japanese",
       "price": 14.99
     },
     {
       "id": 5,
       "name": "Salad",
+      "category": "Healthy",
       "price": 6.99
     },
     {
       "id": 6,
       "name": "Tacos",
+      "category": "Mexican",
       "price": 9.49
     },
     {
       "id": 7,
       "name": "Sandwich",
+      "category": "American",
       "price": 7.99
     },
     {
       "id": 8,
       "name": "Steak",
+      "category": "American",
       "price": 19.99
     },
     {
       "id": 9,
       "name": "Ice Cream",
+      "category": "Dessert",
       "price": 4.99
     },
     {
       "id": 10,
       "name": "Cake",
+      "category": "Dessert",
       "price": 5.99
     },
     {
       "id": 11,
       "name": "French Fries",
+      "category": "Fast Food",
       "price": 3.99
     },
     {
       "id": 12,
       "name": "Hot Dog",
+      "category": "Fast Food",
       "price": 6.49
     },
     {
       "id": 13,
       "name": "Noodles",
+      "category": "Asian",
       "price": 7.99
     },
     {
       "id": 14,
       "name": "Chicken Wings",
+      "category": "American",
       "price": 11.99
     },
     {
       "id": 15,
       "name": "BBQ Ribs",
+      "category": "American",
       "price": 18.49
     },
     {
       "id": 16,
       "name": "Fish & Chips",
+      "category": "British",
       "price": 13.99
+    },
+    {
+      "id": 17,
+      "name": "Paneer Tikka",
+      "category": "Indian",
+      "price": 12.49
+    },
+    {
+      "id": 18,
+      "name": "Biryani",
+      "category": "Indian",
+      "price": 14.99
+    },
+    {
+      "id": 19,
+      "name": "Spring Rolls",
+      "category": "Chinese",
+      "price": 6.99
+    },
+    {
+      "id": 20,
+      "name": "Dumplings",
+      "category": "Chinese",
+      "price": 8.99
+    },
+    {
+      "id": 21,
+      "name": "Chow Mein",
+      "category": "Chinese",
+      "price": 9.99
+    },
+    {
+      "id": 22,
+      "name": "Shawarma",
+      "category": "Middle Eastern",
+      "price": 10.99
+    },
+    {
+      "id": 23,
+      "name": "Fried Rice",
+      "category": "Asian",
+      "price": 9.49
+    },
+    {
+      "id": 24,
+      "name": "Miso Soup",
+      "category": "Japanese",
+      "price": 5.99
+    },
+    {
+      "id": 25,
+      "name": "Pho",
+      "category": "Vietnamese",
+      "price": 11.49
     }
   ]
 }
