@@ -150,5 +150,11 @@
       "category": "Vietnamese",
       "price": 11.49
     }
+    {
+      "id":26,
+      "name": "Samosa",
+      "category": "Indian",
+      "price":4.99
+    } 
   ]
 }
